@@ -1,2 +1,2 @@
 # myntra-s-project
-this my first repository 
+this is  my first repository 
